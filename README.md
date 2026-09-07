@@ -1,39 +1,7 @@
-# Chirpy Starter
-
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
-
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
-
-## Why This Starter Exists
-
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
-
-To unlock all features, the following files must be present in your Jekyll site:
-
-```shell
-.
-â”œâ”€â”€ _config.yml
-â”œâ”€â”€ _plugins
-â”œâ”€â”€ _tabs
-â””â”€â”€ index.html
-```
-
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+þšÚžÈnÇLS…ë(º·~Šÿ¦¶§²±ÓàŠØnÿø¨ÿøm¶›?ÿúkj{!»1þ­†æÿŠÿ>¸²j{!¹(Z“&¿²—«²‰Ú•¹h¦èºÜmªi–'¶*'±ç.®+rýg›J‡$zÛrêâ·/Ûºèº{r­ëj·!ý©Ýµç!ž'–W¬²‰ì•æ«çN¬Š×¢±»¢–Ü"¶ÉzL¥ÿÿá¶ÚlÿÿãzL¥–¶ÿr‰¿ý©Ý¶¿
+«§/ÿ†Ûiÿÿÿ‚+a¹¿Ü¢oÜ¢×¬ÛM´þ7¤ÊY¶¦ÿ÷!ŠºrþØ^™ïí…éé¹¹b²o!¢´{›=¨²Øk¢è!¶«zš,ŠÚ+ÿûŠÑîl-Š‰ìÂŠä~Z0ÿÿÏ¹¹b²©¢ËpŠØFŠÑîÿû0y¸§µêßiÇµüê^žØb²·©¢È­¢¼¨œh­æÚÛ•ç-¶¿ÿúh²Û?ÿÿÿþš,¶ÏÝŠ·œ¶ŠòÿoÒzWœÿÿÀu×â•ïÂ­æ­zw°~)^ÿÿ÷üÖ¦zØ^~)^ý†ÿóü0ÿ²+ÿûb¶W¿™ßÿŠÞÅ©©•ïî±ïöÓn¿Óßôÿû^²Ø§ÿünÊ‘ë¢¸ Š{?™ßß¢¶©¢Ë]j×IêmzfÞ¯ÏöÓn¿ÿó©zÿv‡,þš,ÿû^š™Zµïæÿÿÿÿ÷hrÏé¢Ëµé©•«^þgŠv§¢Ø^®Ö›þÇ¥yËý°ÿÿÚ×(§(­±Ê'µéí²)í¢Ø^ìŠW¿ÿô^¦VœyëÞ¯*eiÇ¡¢W^®)í…çë¢{fjÛ^ÿõ,y§Zµë.r¬ÿm6ÿý=ÿO5ÿýôÿM>ÓôÿÿþÓôþ+-…ê~Ç­~ŠÀ²&¿*‰djÖ¿)ç©q«^‚ŠâzÆ§vÖ ±Ê'r+ý©Ý­é¨½ëazŠmŠ‰Úÿø¦j¿nZ“^žØ^¦‹-…«'¡Ê/z¸¦j¿ÿõ«Š×­…æ«¶'%y·¥£ayúèžÙš¶×«jwn±ëaÿÿÏ­ëâ{ÿµ¦í¡È^rH­°Æ«‘Ú0ÿþÿIé^rßÿ
+‰¦Š×!jxÿÿÿz{^­«¬yû¥r‰¦ŠÙž²Æ ÿö§uÊ&š+m¢Ø^uçÚº[[­©Üÿú+r·šµæ›­©Ü…©Ý¦ée­ê®zËb*.Á©íj·¯‰ìŠ»-ÿÿ?:—§¶«zš,ŠÚ+ÿû?ü-Š‰ìÿûZm©Ý~‰e£azw°zËü¢•Ö§t7©–Œ¿þ»§ýh^ž+l¹ÇyÛ?¶©¢ËpŠYZ¦—š®‰í…èh™êZïâžÇš­Èjwbž+lq«^‚ŠòþÖ ý©Ýj·!Š÷©j¬ý8^u«^Š{ayø¥zv¦y©Ý¶¿u«^ýøž•Û!¢é]j
+ÞÿðºÛ«z››–'¶*'u«^Â)ež‹Z¦—š®éíŠ[ajÛb™ïÃ¢z-i×¦æåŠÈ^ÿ÷Ú–Ç¿Â§¶©¢Ëb²·šw+h‚‰b½ïÿýJe¡§Z×¦mçlr·žžÈh¶Âžz–«¶'%z)šë.×«ý«,zÛ?Šh?¦‹-³ÿÿ¦·Ÿz¶›—(§¢wŸ¢W^®—«¦‹-ÿÿÿµìmjË¶Ïâšé¢ËlþÈh®ßíŠÙ^ýÊ/z¿éž¬±ëlþ) þš,¶Ïì†ŠíþØ­•ïëz«ž²ßëzÊhžÇ¿¦x?ÿò'+G¹¿è¥éÿý«,zÛ?Šh?¦‹-ÿÿÿÿö¬±ëlþ) þš,¶ÏÿN‡+y«^jš,µú%uêâžØ^Áæâž×«}§þÇ¥yËü]~)^ü*Þj×§{â•ïÿýéíz¿ì†ŠíþØ­•ïÿ‚+dyêjËayø¥zv¦ÿö§uÊ&š+bÿó©z{aj×è•×«þÇ¥yËü]~)^ýJe¡§_ŠW¬ÿÿÚ×(šh­¶¬r·žžÈh¶ÏÔ±ç^±Êâ¦Ø¯zZ0z·±çâ•éÚ™ëÚ)¶)¢ÍéZ®¢™¨±·Ÿ¢·®¦Zv)à¶¦üI›yÖ§Šf z)Ìj¹£	ðŠØn±çî•©mz¹Ú¶+Þµìmÿÿÿ™ªävŒ'ÿõžm*‘ëajwl…©²0ž)í…æë£­×¯zZ)z»h¢[?ÿö¬±ëlþ) þš,¶Ïì†ŠíþØ­•ïëz«ž²ßëzÊhžÇ¿¦x?ÿÿÓ¢ëj{©–†yØ¦jš±§(½êÿºw(šg§¶Ø^þ)šïÛ–‡$Š{ayªí‰É^µé©•«^jwn¥Ö­z+l¥«ajwZ–×««b½ë^ÆßÿüZ+™«\¡×›–‡$°û­}éÜy×(uæå¡É,¢{az*èÂybëÖu©Zžšèz{b~'«~ŠìÊ{ZÆ †X †Ø§ÿÿÿÿùš®GhÂÿþm¤aýìZš™^4Ïÿ_õ‹-ýìZš™^þ×¬ÿÿÿÿÿÿ
+‰¦¢xz{b~'«²)Ü–ç^þmÿÿÿ«Ú±Êâ¦ßÿþœ­†‰ÿÿöÚ²ÿþ;(ÿÿÚßòjiü×¯zºZ²×¥Š÷œ­ç^žØš–ÏìzË"¢{h‘éìþšâ½«^¦º ­©jÖ¿¢»§­çZr×¥êì¢v¥Šwè®f­Š‰ÿÿñŠÛaxèºÚZæ§vÈ­zÇ­¶)à°ê^è­…êßŠW¨œh­æÿ±é^rÛaz—§r)br‰ÿÿñŠÛaŠÇâ•ïÿÿùš‘ëayÈZž¿¦·¯‰ì"ÿö§uÊ&š+bµ«zÇ+‰·iº/ÿÿÄv+ÿûZnÏÚn‹­þgÿÿÿþÖ›³ö›¢ë™ßí¡ÈZž­…ênnXœn* ­ªaÊŠé®‡â•ébžK?üGbÿÿÿr‰ßŠòš_ÿÿÿÿr‰ßŠòš_í¡ÈZž­…ëb¶W¿µ¨%Šw¿uë®*mŠ‰ÿ²+^Qÿ¶)žÎ‰Þý«­†ŠæzÖjÖ¿¢»azgŸy«n­ë?üúÞ±êïzØ^`Šw^žÖ­Š‰âÿÿÜ¢wâÿü¦ÿÿÅ¢»aŠÊè¢Ñ¢´{›=¨²È­ÿùzŸÛjÇ®®_ÿÿÿÿû^­ÈZž§ÿÿÜ¢wâÿü¦ÿÿåzÛay×©–Œ¦z{\¢jez×š×!yÉ-…èêÚµçij¬ý÷žÿû"µéšÿö§vg­iÖ­ÿÿÿ
+œ‘×©–Œ¦z{^®º+³_Î¥éÿü-Š‰ìÿø§¶†ŠÑîn·©¢È­¢¼¿ÿôž•ç-¶¦¢ËkyÇ§ÿÿÁº)]jwCz™hÿÿð¢¹–Œ+º÷üê^žØ^}¨¥yØèm©Ý{ZÛayø«²×ÚŠW²×©¶ŠÞiÛay»¢•Ùž²Æ ÿþ?
+œ’·œz{^v+l~ŠæjWè®g`þh¬²)à~º'ÿùš¶×«uébš+^®Ïÿÿÿÿÿö§Š{Ú–'i¢Ë_ŠW§jg¿¢¶›i×â•êZ¶ùü*&š+m…ç(®·œ¶*'þØ^ÂŠä~Z0Â)e®éÚ¨§jëh™«bq©eÿð%²‡!yÉ?ý'­¶)àÿóÚë?ý©Ýr‰ßŠ¹­…«ý*.­Ç¿þ+,zÛhÿñ¢´{›Ëb¢{?ÿôáy×©–Œ¦z{c¡»!£-…ênnX¬…çTD¼!zx­²çyçlÿÿÏ®‹^rÛ§¦æåŠÈ^u©Ýr‰ß‰×§¶&¥ÂŠäN¬ŠÆ©¹¹br·©¢È­¢¼¿z÷«ÉÊ&š+my×kiûŠf ÿ÷â•êÞ¾+"¢Ú×^•ë^vÇœ­ëfk*Þ™¨§¾+"nW¢œh­†+-¢¼¿)ç©ºznnX¬…çkzÇš­È¦º ­©¿r‰ß‰×§¶&¥Šwè®f­Š‰ÿr·z{bj[?¶‰žÏé®+ÚµêÞ¦Šíÿö§v'^žØŸÊ)àzøzw¢ël‰×­†++zš,ŠÚ+ÿô^u§-±éìŠØ¯y×­j)lmçè­ë©–†ŠxŸ+aŠx?RÇš±êZ­«^¦¸¯j×«zš,ŠÚ+ÊŠå¡Æ¥zw+Ê›^vËh­¨~ŠÝ­§í²ØZµªÞž‹ky§r~Šé¹¹bqØ¬rZ,º·¿ÿð¨žwœµ§.²Ú&v‰šŠyZµêÍ¡Ë¬¶‰¢f¢ž++z«¢­ç¶¬Š×°¢¹,jßá¶Úlÿÿé­©ì†ìtÿø"¶›þ*?~Šß­ç¿!ü¨º†íj)Úv‰šŠyZµêÿÿô^iÑ¢´{›þÇ.®·§ÿ÷.²Ú&ýÚ&j)Ý¡Ë¦z{Z¶*'ÿøm¶›?ÿ÷hrÏàŠØnÿ÷(›÷§þ– zÏÜ¢wâ‚êâžÚýË¬¶‰¿v‰šŠß¢¿ò¢êÿ‚+a¹¿éj¬þÈ­ÿÿöü]jwoz¸ŸÊØ^v‰šŠwè®Ø^+G¹¶œr‹§ÿûazz)zÿIëmŠx,üö zÏÂºËh™Ú&j)ÿþ)í†++zš,ŠÚ+ÿýÿ{^®Ø^v‰šŠ|¨ºŒ'jwZuÛax3R­ç(­ÛŠÑînÊ^r'âzÆ­Ê‹«Ô©®‹âuêÿ‰è¶)Ü–ç^þm¦Ïÿÿø§¶œºËhÿ÷h™¨§~'¥ÿþ?Y¨­~ŠÆŠÑîÿû5'!yÉ-¢–¬ÿû^²Öè¶ayË¬¶‰¢f¢©ÝþšÚžÈnÇL‚+a¹¿âÿÿÚÛazw§i¹^ÿñ'~ŠÜxtÓ=/ÿü§žÿöÚ±ë«ÿ÷¦¦Ü°…éí…ë"µè¬±êïy×ë¢kazº(¶‡ÞŠØ^®Ø^+G¹³Úë!¢Ëgjg¨­§.²Ú&v‰šŠÿý8^™æ§vXœz{N¬­êh²+h¯&Þ©ðŠØm…ê~'"j_Â†*éÉ+Z®×«ÿøm¶›?ÿø"¶›ýÊ&ýÊ-zÍ´ÛOÜ†*éÿû-j»^ÿÿÊyêm…ëazgœ¢wâ‚êÚ¶*'ý×©zw^Èžÿö­¶¸›ºØ¨ÿö§vØ^{¬¶)àüÂ–'žÇ¿ÿÿË !HOð…éî¥Ö­Šx-…ë"µïÀ
