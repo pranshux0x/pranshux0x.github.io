@@ -1,7 +1,88 @@
-şšÚÈnÇLS…ë(º·~Šÿ¦¶§²±ÓàŠØnÿø¨ÿøm¶›?ÿúkj{!»1ş­†æÿŠÿ>¸²j{!¹(Z“&¿²—«²‰Ú•¹h¦èºÜmªi–'¶*'±ç.®+rıg›J‡$zÛrêâ·/Ûºèº{r­ëj·!ı©İµç!'–W¬²‰ì•æ«çN¬Š×¢±»¢–Ü"¶ÉzL¥ÿÿá¶ÚlÿÿãzL¥–¶ÿr‰¿ı©İ¶¿
-«§/ÿ†Ûiÿÿÿ‚+a¹¿Ü¢oÜ¢×¬ÛM´ş7¤ÊY¶¦ÿ÷!ŠºrşØ^™ïí…éé¹¹b²o!¢´{›=¨²Øk¢è!¶«zš,ŠÚ+ÿûŠÑîl-Š‰ìÂŠä~Z0ÿÿÏ¹¹b²©¢ËpŠØFŠÑîÿû0y¸§µêßiÇµüê^Øb²·©¢È­¢¼¨œh­æÚÛ•ç-¶¿ÿúh²Û?ÿÿÿşš,¶ÏİŠ·œ¶ŠòÿoÒzWœÿÿÀu×â•ïÂ­æ­zw°~)^ÿÿ÷üÖ¦zØ^~)^ı†ÿóü0ÿ²+ÿûb¶W¿™ßÿŠŞÅ©©•ïî±ïöÓn¿Óßôÿû^²Ø§ÿünÊ‘ë¢¸ Š{?™ßß¢¶©¢Ë]j×IêmzfŞ¯ÏöÓn¿ÿó©zÿv‡,şš,ÿû^š™Zµïæÿÿÿÿ÷hrÏé¢Ëµé©•«^şgŠv§¢Ø^®Ö›şÇ¥yËı°ÿÿÚ×(§(­±Ê'µéí²)í¢Ø^ìŠW¿ÿô^¦VœyëŞ¯*eiÇ¡¢W^®)í…çë¢{fjÛ^ÿõ,y§Zµë.r¬ÿm6ÿı=ÿO5ÿıôÿM>ÓôÿÿşÓôş+-…ê~Ç­~ŠÀ²&¿*‰djÖ¿)ç©q«^‚ŠâzÆ§vÖ ±Ê'r+ı©İ­é¨½ëazŠmŠ‰Úÿø¦j¿nZ“^Ø^¦‹-…«'¡Ê/z¸¦j¿ÿõ«Š×­…æ«¶'%y·¥£ayúèÙš¶×«jwn±ëaÿÿÏ­ëâ{ÿµ¦í¡È^rH­°Æ«‘Ú0ÿşÿIé^rßÿ
-‰¦Š×!jxÿÿÿz{^­«¬yû¥r‰¦ŠÙ²Æ ÿö§uÊ&š+m¢Ø^uçÚº[[­©Üÿú+r·šµæ›­©Ü…©İ¦ée­ê®zËb*.Á©íj·¯‰ìŠ»-ÿÿ?:—§¶«zš,ŠÚ+ÿû?ü-Š‰ìÿûZm©İ~‰e£azw°zËü¢•Ö§t7©–Œ¿ş»§ıh^+l¹ÇyÛ?¶©¢ËpŠYZ¦—š®‰í…èh™êZïâÇš­Èjwb+lq«^‚ŠòşÖ ı©İj·!Š÷©j¬ı8^u«^Š{ayø¥zv¦y©İ¶¿u«^ıø•Û!¢é]j
-ŞÿğºÛ«z››–'¶*'u«^Â)e‹Z¦—š®éíŠ[ajÛb™ïÃ¢z-i×¦æåŠÈ^ÿ÷Ú–Ç¿Â§¶©¢Ëb²·šw+h‚‰b½ïÿıJe¡§Z×¦mçlr·Èh¶Âz–«¶'%z)šë.×«ı«,zÛ?Šh?¦‹-³ÿÿ¦·Ÿz¶›—(§¢wŸ¢W^®—«¦‹-ÿÿÿµìmjË¶Ïâšé¢ËlşÈh®ßíŠÙ^ıÊ/z¿é¬±ëlş) şš,¶Ïì†ŠíşØ­•ïëz«²ßëzÊhÇ¿¦x?ÿò'+G¹¿è¥éÿı«,zÛ?Šh?¦‹-ÿÿÿÿö¬±ëlş) şš,¶ÏÿN‡+y«^jš,µú%uêâØ^Áæâ×«}§şÇ¥yËü]~)^ü*Şj×§{â•ïÿıéíz¿ì†ŠíşØ­•ïÿ‚+dyêjËayø¥zv¦ÿö§uÊ&š+bÿó©z{aj×è•×«şÇ¥yËü]~)^ıJe¡§_ŠW¬ÿÿÚ×(šh­¶¬r·Èh¶ÏÔ±ç^±Êâ¦Ø¯zZ0z·±çâ•éÚ™ëÚ)¶)¢ÍéZ®¢™¨±·Ÿ¢·®¦Zv)à¶¦üI›yÖ§Šf z)Ìj¹£	ğŠØn±çî•©mz¹Ú¶+Şµìmÿÿÿ™ªävŒ'ÿõm*‘ëajwl…©²0)í…æë£­×¯zZ)z»h¢[?ÿö¬±ëlş) şš,¶Ïì†ŠíşØ­•ïëz«²ßëzÊhÇ¿¦x?ÿÿÓ¢ëj{©–†yØ¦jš±§(½êÿºw(šg§¶Ø^ş)šïÛ–‡$Š{ayªí‰É^µé©•«^jwn¥Ö­z+l¥«ajwZ–×««b½ë^ÆßÿüZ+™«\¡×›–‡$°û­}éÜy×(uæå¡É,¢{az*èÂybëÖu©Zšèz{b~'«~ŠìÊ{ZÆ †X †Ø§ÿÿÿÿùš®GhÂÿşm¤aıìZš™^4Ïÿ_õ‹-ıìZš™^ş×¬ÿÿÿÿÿÿ
-‰¦¢xz{b~'«²)Ü–ç^şmÿÿÿ«Ú±Êâ¦ßÿşœ­†‰ÿÿöÚ²ÿş;(ÿÿÚßòjiü×¯zºZ²×¥Š÷œ­ç^Øš–ÏìzË"¢{h‘éìşšâ½«^¦º ­©jÖ¿¢»§­çZr×¥êì¢v¥Šwè®f­Š‰ÿÿñŠÛaxèºÚZæ§vÈ­zÇ­¶)à°ê^è­…êßŠW¨œh­æÿ±é^rÛaz—§r)br‰ÿÿñŠÛaŠÇâ•ïÿÿùš‘ëayÈZ¿¦·¯‰ì"ÿö§uÊ&š+bµ«zÇ+‰·iº/ÿÿÄv+ÿûZnÏÚn‹­şgÿÿÿşÖ›³ö›¢ë™ßí¡ÈZ­…ênnXœn* ­ªaÊŠé®‡â•ébK?üGbÿÿÿr‰ßŠòš_ÿÿÿÿr‰ßŠòš_í¡ÈZ­…ëb¶W¿µ¨%Šw¿uë®*mŠ‰ÿ²+^Qÿ¶)Î‰Şı«­†ŠæzÖjÖ¿¢»azgŸy«n­ë?üúŞ±êïzØ^`Šw^Ö­Š‰âÿÿÜ¢wâÿü¦ÿÿÅ¢»aŠÊè¢Ñ¢´{›=¨²È­ÿùzŸÛjÇ®®_ÿÿÿÿû^­ÈZ§ÿÿÜ¢wâÿü¦ÿÿåzÛay×©–Œ¦z{\¢jez×š×!yÉ-…èêÚµçij¬ı÷ÿû"µéšÿö§vg­iÖ­ÿÿÿ
-œ‘×©–Œ¦z{^®º+³_Î¥éÿü-Š‰ìÿø§¶†ŠÑîn·©¢È­¢¼¿ÿô•ç-¶¦¢ËkyÇ§ÿÿÁº)]jwCz™hÿÿğ¢¹–Œ+º÷üê^Ø^}¨¥yØèm©İ{ZÛayø«²×ÚŠW²×©¶ŠŞiÛay»¢•Ù²Æ ÿş?
-œ’·œz{^v+l~ŠæjWè®g`şh¬²)à~º'ÿùš¶×«uébš+^®Ïÿÿÿÿÿö§Š{Ú–'i¢Ë_ŠW§jg¿¢¶›i×â•êZ¶ùü*&š+m…ç(®·œ¶*'şØ^ÂŠä~Z0Â)e®éÚ¨§jëh™«bq©eÿğ%²‡!yÉ?ı'­¶)àÿóÚë?ı©İr‰ßŠ¹­…«ı*.­Ç¿ş+,zÛhÿñ¢´{›Ëb¢{?ÿôáy×©–Œ¦z{c¡»!£-…ênnX¬…çTD¼!zx­²çyçlÿÿÏ®‹^rÛ§¦æåŠÈ^u©İr‰ß‰×§¶&¥ÂŠäN¬ŠÆ©¹¹br·©¢È­¢¼¿z÷«ÉÊ&š+my×kiûŠf ÿ÷â•êŞ¾+"¢Ú×^•ë^vÇœ­ëfk*Ş™¨§¾+"nW¢œh­†+-¢¼¿)ç©ºznnX¬…çkzÇš­È¦º ­©¿r‰ß‰×§¶&¥Šwè®f­Š‰ÿr·z{bj[?¶‰Ïé®+ÚµêŞ¦Šíÿö§v'^ØŸÊ)àzøzw¢ël‰×­†++zš,ŠÚ+ÿô^u§-±éìŠØ¯y×­j)lmçè­ë©–†ŠxŸ+aŠx?RÇš±êZ­«^¦¸¯j×«zš,ŠÚ+ÊŠå¡Æ¥zw+Ê›^vËh­¨~Šİ­§í²ØZµªŞ‹ky§r~Šé¹¹bqØ¬rZ,º·¿ÿğ¨wœµ§.²Ú&v‰šŠyZµêÍ¡Ë¬¶‰¢f¢++z«¢­ç¶¬Š×°¢¹,jßá¶Úlÿÿé­©ì†ìtÿø"¶›ş*?~Šß­ç¿!ü¨º†íj)Úv‰šŠyZµêÿÿô^iÑ¢´{›şÇ.®·§ÿ÷.²Ú&ıÚ&j)İ¡Ë¦z{Z¶*'ÿøm¶›?ÿ÷hrÏàŠØnÿ÷(›÷§ş– zÏÜ¢wâ‚êâÚıË¬¶‰¿v‰šŠß¢¿ò¢êÿ‚+a¹¿éj¬şÈ­ÿÿöü]jwoz¸ŸÊØ^v‰šŠwè®Ø^+G¹¶œr‹§ÿûazz)zÿIëmŠx,üö zÏÂºËh™Ú&j)ÿş)í†++zš,ŠÚ+ÿıÿ{^®Ø^v‰šŠ|¨ºŒ'jwZuÛax3R­ç(­ÛŠÑînÊ^r'âzÆ­Ê‹«Ô©®‹âuêÿ‰è¶)Ü–ç^şm¦Ïÿÿø§¶œºËhÿ÷h™¨§~'¥ÿş?Y¨­~ŠÆŠÑîÿû5'!yÉ-¢–¬ÿû^²Öè¶ayË¬¶‰¢f¢©İşšÚÈnÇL‚+a¹¿âÿÿÚÛazw§i¹^ÿñ'~ŠÜxtÓ=/ÿü§ÿöÚ±ë«ÿ÷¦¦Ü°…éí…ë"µè¬±êïy×ë¢kazº(¶‡ŞŠØ^®Ø^+G¹³Úë!¢Ëgjg¨­§.²Ú&v‰šŠÿı8^™æ§vXœz{N¬­êh²+h¯&Ş©ğŠØm…ê~'"j_Â†*éÉ+Z®×«ÿøm¶›?ÿø"¶›ıÊ&ıÊ-zÍ´ÛOÜ†*éÿû-j»^ÿÿÊyêm…ëazgœ¢wâ‚êÚ¶*'ı×©zw^Èÿö­¶¸›ºØ¨ÿö§vØ^{¬¶)àüÂ–'Ç¿ÿÿË !HOğ…éî¥Ö­Šx-…ë"µïÀ
+# pranshux0x
+
+The source for [pranshux0x.github.io](https://pranshux0x.github.io), Priyanshu Shakya's personal blog about web application security, WebSocket security, bug bounty research, and technical lessons learned.
+
+The site is built with [Jekyll](https://jekyllrb.com/) and the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, then published by GitHub Pages through the repository's GitHub Actions workflow.
+
+## Publish a post with GitHub's web interface
+
+1. Open this repository on GitHub and select the [`_posts`](./_posts) directory.
+2. Select **Add file â†’ Create new file**.
+3. Name the file `YYYY-MM-DD-short-title.md`. For example, use `2026-09-08-testing-websocket-origins.md` for a post dated September 8, 2026.
+4. Open [`docs/post-template.md`](./docs/post-template.md) in another tab, select **Raw**, and copy its contents into the new file.
+5. Replace every placeholder in the front matter. Use a date such as `2026-09-08 10:30:00 +0530`; `+0530` is the offset for Asia/Kolkata. Keep categories and tags concise, and remove the optional `image` block when the post has no cover image.
+6. Write the article below the front matter and use the **Preview** tab to check its Markdown.
+7. Select **Commit changes**, enter a useful commit message, and commit to the default branch (or create a branch and pull request if you want a review first).
+8. Open the repository's **Actions** tab and follow the newest **Build and Deploy** run. When it succeeds, the post will appear on the homepage, in search, and in its category, tag, and archive pages.
+
+The date in the filename and the `date` field should agree. A future publication date will not appear until that time. Do not add `published: false` when the post is ready to go live.
+
+## Upload and embed screenshots
+
+Keep article images under `assets/img/posts/`, preferably in one folder per post:
+
+```text
+assets/img/posts/short-title/cover.png
+assets/img/posts/short-title/request-response.png
+```
+
+In GitHub, open [`assets/img/posts`](./assets/img/posts). To create a post folder in the web interface, select **Add file â†’ Create new file**, enter `short-title/.gitkeep` as the filename, and commit it. Open that folder, select **Add file â†’ Upload files**, and commit the screenshots. Use descriptive lowercase filenames and optimize large images before uploading them.
+
+Embed an image in Markdown with useful alternative text:
+
+```markdown
+![WebSocket handshake shown in the browser developer tools](/assets/img/posts/short-title/request-response.png)
+```
+
+To use an uploaded image as a cover, uncomment the `image` block in the article template and update its path and alternative text.
+
+## Format code blocks
+
+Put fenced code blocks on their own lines and add a language identifier for syntax highlighting:
+
+````markdown
+```http
+GET /example HTTP/1.1
+Host: example.test
+```
+````
+
+Common identifiers include `http`, `javascript`, `python`, `bash`, `json`, and `yaml`. Never paste live credentials, session tokens, private program data, or unredacted personal information.
+
+## Edit the About page and site settings
+
+Open either file on GitHub, select the pencil icon (**Edit this file**), make the change, preview it, and commit it as described above.
+
+- Edit [`_tabs/about.md`](./_tabs/about.md) to change the public biography or profile links.
+- Edit [`_config.yml`](./_config.yml) to change the title, tagline, description, site URL, timezone, author metadata, or theme features.
+- Preserve the YAML indentation in `_config.yml`. For this root GitHub Pages site, keep `baseurl: ""`.
+- After changing `_config.yml`, let the deployment complete and check the generated pages, feed, sitemap, and metadata.
+
+## Check deployment errors
+
+1. Open **Actions** in the GitHub repository.
+2. Select the most recent **Build and Deploy** workflow run.
+3. Open the failed job and expand the first failed step to read the build message.
+4. Check recent edits for malformed YAML, missing front-matter delimiters (`---`), an invalid post filename, or a bad file path.
+5. Commit the correction; the workflow will run again automatically.
+
+Also check **Settings â†’ Pages** and confirm that **Source** is set to **GitHub Actions**. The deployment job shows the published URL when it succeeds.
+
+## Protect unpublished and confidential work
+
+This is a public repository: every committed draft, image, file revision, and deleted secret may remain visible in Git history. Keep unpublished research, program-confidential information, credentials, tokens, private reports, and identifying evidence outside this repository. Redact sensitive details before uploading anything. Use a separate private repository or local encrypted storage for drafts that are not ready for public disclosure.
+
+## Connect a custom domain later
+
+No custom domain is required; the site works at `https://pranshux0x.github.io` for free. If you obtain a domain later:
+
+1. Read GitHub's current [custom-domain documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
+2. Add and verify the domain for the GitHub account, then open **Settings â†’ Pages â†’ Custom domain** in this repository.
+3. Enter the domain you own and add the DNS records GitHub specifies at your DNS provider. Do not include `https://` in the custom-domain field.
+4. Wait for GitHub's DNS check to pass, test both the custom domain and `pranshux0x.github.io`, and then enable **Enforce HTTPS**.
+
+Keep `baseurl` empty when the site is served from the root of either the GitHub Pages hostname or a custom domain.
+
+## Theme and license
+
+This repository began with the official [Chirpy Starter](https://github.com/cotes2020/chirpy-starter). Keep the theme configuration, dependencies, attribution, and the existing [MIT license](./LICENSE) when updating the site.
