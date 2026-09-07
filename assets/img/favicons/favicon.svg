@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">pranshux0x monogram</title>
+  <desc id="desc">A white P and cyan X on a dark rounded square.</desc>
+  <rect width="512" height="512" rx="112" fill="#0b1220"/>
+  <path
+    fill="#f8fafc"
+    fill-rule="evenodd"
+    d="M88 96h132c88 0 140 48 140 128s-52 128-140 128h-58v64H88V96Zm74 68v120h52c48 0 72-20 72-60s-24-60-72-60h-52Z"
+  />
+  <path
+    fill="#2dd4bf"
+    d="M232 276h78l37 48 37-48h78l-76 94 74 92h-78l-35-46-35 46h-78l74-92-76-94Z"
+  />
+</svg>
