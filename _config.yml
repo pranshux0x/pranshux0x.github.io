@@ -40,6 +40,11 @@ social:
     - https://bugcrowd.com/h/pranshux0x
     - https://medium.com/@pranshux0x
 
+# Global author metadata used by jekyll-seo-tag for articles.
+author:
+  name: Priyanshu Shakya
+  url: https://github.com/pranshux0x
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
